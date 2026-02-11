@@ -1,0 +1,8 @@
+opencv-python
+torch
+transformers
+Pillow
+gTTS
+playsound
+pyttsx3
+deep-translator
