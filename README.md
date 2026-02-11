@@ -1,4 +1,4 @@
-🌙 ## Moondream2 Real-Time Vision Language Assistant
+🌙 ## Moondream2 Real-Time Vision Language Assistant##
 
 * A real-time AI assistant powered by Vision Language Models (VLMs) using the Moondream-2 model. This system understands visual input from a live camera and generates meaningful natural language responses along with voice output.
 
