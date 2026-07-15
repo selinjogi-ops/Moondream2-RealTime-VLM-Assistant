@@ -1,4 +1,4 @@
-# 🌙 Moondream2 Real-Time Vision Language Assistant
+# ReadEase: Real-Time Vision-Language Assistant
 
 An assistive real-time AI system powered by **Moondream-2 (Vision Language Model)** that interprets live visual input and generates natural language responses with multilingual voice output.
 
